@@ -180,7 +180,9 @@ nav {
 }
 .logo {
   height: auto;
-  color: hsl(209, 61%, 16%);
+  font-size: 50px;
+  font-family: 'Courier New', Courier, monospace;
+  color: var(--clr-primary-3);
 }
 .links a {
   color: var(--clr-grey-3);
